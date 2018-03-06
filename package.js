@@ -1,8 +1,8 @@
 Package.describe({
-  name: 'kabalin:simple-schema-geojson',
+  name: 'espressolocator:simple-schema-geojson',
   version: '0.0.1',
   summary: 'SimpleSchema sub-schema for GeoJSON objects.',
-  git: '',
+  git: 'https://github.com/espressolocator/simple-schema-geojson',
   documentation: 'README.md'
 });
 
